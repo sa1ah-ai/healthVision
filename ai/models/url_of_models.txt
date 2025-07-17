@@ -1,0 +1,2 @@
+EffNet4_Cancer.h5: https://www.kaggle.com/code/andrihjonior/breast-cancer-classify/output
+EffNet4_Pneumonia.h5: https://www.kaggle.com/code/andrihjonior/chest-x-ray-effnetb4-99-training-86-testing/output
